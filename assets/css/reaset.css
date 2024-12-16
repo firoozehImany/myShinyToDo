@@ -1,0 +1,15 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    direction: ltr;
+}
+
+ul {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
